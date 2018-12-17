@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css?family=Charm:100,200,300,400,500,600,700|Inconsolata:100,200,300,400,500,600,700");
+
+/*---------------------------------General*/
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/*---------------------------------Header*/
+
+.navbar-toggle .icon-bar {
+    background-color: #FCF7F8;
+}
+
+.nav {
+    width: 100vw;
+    background-color: #C0A9B0;
+    margin-bottom: 0;
+}
+
+.logo {
+    height: 4em;
+    padding: 5px 30px;
+    transition: ease-in-out;
+}
+
+.logo:hover {
+    height: 7em;
+}
+
+.navigation-links {
+    margin-top: 1em;
+    list-style: none;
+}
+
+@media (min-width: 768px) {
+    .navigation-links {
+        float: right;
+    }
+}
+
+.link a {
+    padding-right: 30px;
+    color: #FCF7F8;
+    font-weight: bold;
+    font-family: 'Inconsolata';
+    font-size: 1.4em;
+}
+
+/*---------------------------------Footer*/
+
+.rights {
+    color: #FCF7F8;
+    padding-top: 12px;
+    padding-left: 12px;
+    font-family: 'Inconsolata';
+    font-weight: 400;
+}
+
+@media (min-width: 768px) {
+    .rights {
+        text-align: right;
+    }
+}
+
+.bg-footer {
+    background-color: #C0A9B0;
+}
+
+.social-links a i {
+    margin-top: 6px;
+    padding: 12px 6px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    color: #383F51;
+    background-color: #C0A9B0;
+    transition: all 0.35 ease-in-out;
+    -moz-transition: all 0.35 ease-in-out;
+    -webkit-transition: all 0.35 ease-in-out;
+    -o-transition: all 0.35 ease-in-out;
+}
+
+.social-links a i:hover {
+    background-color: #FCF7F8;
+}
+
+/*---------------------------------Home Page*/
+
+.jumbotron {
+    background-color: transparent;
+    color: #FCF7F8;
+    font-family: 'Charm';
+}
+
+.page-heading {
+    font-weight: 700;
+    font-size: 5em;
+}
+
+.page-subheading {
+    font-family: 'Inconsolata';
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.video {
+    display: block;
+    padding: 40px;
+}
+
+.background-image {
+    height: 100vh;
+    background: url(/assets/images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+.opaque-overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
