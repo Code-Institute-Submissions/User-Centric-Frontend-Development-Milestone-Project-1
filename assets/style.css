@@ -2,8 +2,25 @@
 
 /*---------------------------------General*/
 
+body {
+    font-family: 'Inconsolata', sans-serif;
+}
+
 .uppercase {
     text-transform: uppercase;
+}
+
+.heading {
+    font-family: Charm;
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.subheading {
+    font-weight: 700;
+    text-decoration: underline;
 }
 
 /*---------------------------------Header*/
@@ -47,6 +64,67 @@
     font-size: 1.4em;
 }
 
+/*---------------------------------Home Page*/
+
+.jumbotron {
+    background-color: transparent;
+    color: #FCF7F8;
+    font-family: 'Charm';
+}
+
+.page-heading {
+    font-weight: 700;
+    font-size: 5em;
+}
+
+.page-subheading {
+    font-family: 'Inconsolata';
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.background-image {
+    height: 100vh;
+    background: url(/assets/images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+.opaque-overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+/*---------------------------------About Page*/
+
+.cottagetearooms-image {
+    display: block;
+    margin: 0 auto;
+    max-height: 600px;
+    position: relative;
+}
+
+.about-section {
+    padding-left: 20px;
+}
+
+.video {
+    display: inline-block;
+    padding: 30px;
+}
+
 /*---------------------------------Footer*/
 
 .rights {
@@ -86,49 +164,3 @@
     background-color: #FCF7F8;
 }
 
-/*---------------------------------Home Page*/
-
-.jumbotron {
-    background-color: transparent;
-    color: #FCF7F8;
-    font-family: 'Charm';
-}
-
-.page-heading {
-    font-weight: 700;
-    font-size: 5em;
-}
-
-.page-subheading {
-    font-family: 'Inconsolata';
-    font-weight: 700;
-    color: #fff;
-    text-align: center;
-}
-
-.video {
-    display: block;
-    padding: 40px;
-}
-
-.background-image {
-    height: 100vh;
-    background: url(/assets/images/background.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    position: relative;
-    justify-content: center;
-}
-
-.opaque-overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: rgba(0, 0, 0, 0.7);
-}
