@@ -41,13 +41,8 @@ section {
 }
 
 .logo {
-    height: 4em;
-    padding: 5px 30px;
-    transition: ease-in-out;
-}
-
-.logo:hover {
-    height: 7em;
+    height: 5em;
+    margin: 5px 30px;
 }
 
 .navigation-links {
@@ -61,12 +56,17 @@ section {
     }
 }
 
+
 .link a {
     padding-right: 30px;
     color: #FCF7F8;
     font-weight: bold;
     font-family: 'Inconsolata';
     font-size: 1.4em;
+}
+
+.active {
+    text-decoration: underline;
 }
 
 /*---------------------------------Home Page*/
@@ -123,7 +123,7 @@ section {
 
 .video {
     display: inline-block;
-    padding: 30px;
+    width: 100%;
 }
 
 /*---------------------------------Menu Page*/
@@ -173,20 +173,21 @@ section {
 }
 
 .subheading-bat {
-    color: #92B4F4;
+    color: #FCF7F8;
+    font-weight: 700;
 }
 
 .reservation-form {
     display: block;
     margin-top: 30px;
-    border: 1px solid #FCF7F8;
     text-align: center;
+    background-color: #92B4F4;
+    padding: 20px 0 20px 0;
 }
 
-.reservation-form .form-group input {
+.reservation-form .form-group input,
+.reservation-form .form-group textarea{
     width: 200px;
-    text-align: center;
-    border-radius: 5%;
 }
 
 .text-field {
@@ -196,6 +197,7 @@ section {
 .submit-button {
     background-color: #FCF7F8;
     color: #C0A9B0;
+    font-weight: 700;
 }
 
 .submit-button:hover {
@@ -238,17 +240,17 @@ section {
 
 .social-links a i {
     margin-top: 6px;
-    padding: 12px 6px;
+    line-height: 30px;
     height: 30px;
     width: 30px;
     border-radius: 50%;
     text-align: center;
     color: #383F51;
     background-color: #C0A9B0;
-    transition: all 0.35 ease-in-out;
-    -moz-transition: all 0.35 ease-in-out;
-    -webkit-transition: all 0.35 ease-in-out;
-    -o-transition: all 0.35 ease-in-out;
+    transition: background-color 0.35s ease-in-out;
+    -moz-transition: background-color 0.35s ease-in-out;
+    -webkit-transition: background-color 0.35s ease-in-out;
+    -o-transition: background-color 0.35s ease-in-out;
 }
 
 .social-links a i:hover {
