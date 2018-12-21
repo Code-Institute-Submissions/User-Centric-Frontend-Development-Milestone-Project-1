@@ -2,9 +2,15 @@
 
 /*---------------------------------General*/
 
+html {
+    min-height: 100%;
+    position: relative;
+}
+
 body {
     font-family: 'Inconsolata', sans-serif;
     text-align: justify;
+    margin-bottom: 70px;
 }
 
 section {
@@ -236,6 +242,12 @@ section {
 
 .bg-footer {
     background-color: #C0A9B0;
+}
+
+.footer-container {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
 }
 
 .social-links a i {
