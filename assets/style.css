@@ -12,10 +12,6 @@ body {
     text-align: justify;
 }
 
-section {
-    padding: 10px 80px;
-}
-
 .uppercase {
     text-transform: uppercase;
 }
@@ -47,27 +43,20 @@ section {
 }
 
 .logo {
-    height: 5em;
+    height: 80px;
     margin: 5px 30px;
 }
 
 .navigation-links {
-    margin-top: 1em;
+    margin-top: 16px;
     list-style: none;
 }
-
-@media (min-width: 768px) {
-    .navigation-links {
-        float: right;
-    }
-}
-
 
 .link a {
     padding-right: 30px;
     color: #FCF7F8;
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 22px;
 }
 
 .active {
@@ -84,7 +73,7 @@ section {
 
 .page-heading {
     font-weight: 700;
-    font-size: 5em;
+    font-size: 80px;
 }
 
 .page-subheading {
@@ -122,19 +111,26 @@ section {
     display: block;
     margin: 0 auto;
     max-height: 600px;
+    max-width: 100%;
     position: relative;
 }
 
 .video {
     display: inline-block;
     width: 100%;
+    max-width: 560px;
+}
+
+.folk-music {
+    width: 100%;
+    max-width: 560px;
 }
 
 /*---------------------------------Menu Page*/
 
 .menu-image {
     max-height: 300px;
-    max-width: 400px;
+    max-width: 100%;
     padding-bottom: 20px;
     display: block;
     position: relative;
@@ -142,16 +138,11 @@ section {
 }
 
 .menu-item {
-    padding-top: 10px;
+    padding: 10px 20px;
 }
 
 .item-price {
-    padding-top: 10px;
-    font-weight: bold;
-    list-style: none;
-}
-
-.item-add {
+    padding: 10px 50px;
     font-weight: bold;
     list-style: none;
 }
@@ -191,11 +182,11 @@ section {
 
 .reservation-form .form-group input,
 .reservation-form .form-group textarea{
-    width: 200px;
+    width: 150px;
 }
 
 .text-field {
-    height: 5em;
+    height: 80px;
 }
 
 .submit-button {
@@ -214,12 +205,17 @@ section {
 
 .tripadvisor-container{
     display: block;
-    margin: 40px;
+    max-width: 100%;
 }
 
 .tripadvisor {
     width: 100%; 
     height: 300px;
+    padding: 30px;
+}
+
+.reviews-img {
+    max-width: 100%;
 }
  
 /*---------------------------------Footer*/
@@ -229,12 +225,6 @@ section {
     padding-top: 12px;
     padding-left: 12px;
     font-weight: 400;
-}
-
-@media (min-width: 768px) {
-    .rights {
-        text-align: right;
-    }
 }
 
 .bg-footer {
@@ -264,5 +254,25 @@ section {
 
 .social-links a i:hover {
     background-color: #FCF7F8;
+}
+
+/*---------------------------------Media Querries*/
+
+@media (min-width: 768px) {
+    .navigation-links {
+        float: right;
+    }
+}
+
+@media (min-width: 768px) {
+    .rights {
+        text-align: right;
+    }
+}
+
+@media (min-width: 768px) {
+    section {
+        margin: 10px 80px;
+    }
 }
 
