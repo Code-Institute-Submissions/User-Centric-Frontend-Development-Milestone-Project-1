@@ -119,6 +119,7 @@ body {
     display: inline-block;
     width: 100%;
     max-width: 560px;
+    border: none;
 }
 
 .folk-music {
@@ -165,6 +166,21 @@ body {
 
 .google-maps-api {
     padding-bottom: 30px;
+    border: none;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none;
+    height: 448px;
+    width: 338px;
+}
+
+.mapouter {
+    text-align: left;
+    height: 448px;
+    width: 338px;
+    margin: 0 auto;
 }
 
 .subheading-bat {
@@ -271,7 +287,7 @@ body {
 
 @media (min-width: 768px) {
     section {
-        margin: 10px 80px;
+        margin: 10px 90px;
     }
 }
 
