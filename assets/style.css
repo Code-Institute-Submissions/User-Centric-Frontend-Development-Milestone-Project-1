@@ -101,7 +101,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 
@@ -149,7 +149,7 @@ body {
 
 /*---------------------------------Contact Page*/
 
-.inline-block-element .key, 
+.inline-block-element .key,
 .inline-block-element .value {
     display: inline-block;
 }
@@ -181,7 +181,7 @@ body {
 }
 
 .reservation-form .form-group input,
-.reservation-form .form-group textarea{
+.reservation-form .form-group textarea {
     width: 150px;
 }
 
@@ -202,22 +202,21 @@ body {
 
 /*---------------------------------Reviews Page*/
 
-
-.tripadvisor-container{
+.tripadvisor-container {
     display: block;
     max-width: 100%;
 }
 
 .tripadvisor {
-    width: 100%; 
-    height: 300px;
+    width: 100%;
+    height: 600px;
     padding: 30px;
 }
 
 .reviews-img {
     max-width: 100%;
 }
- 
+
 /*---------------------------------Footer*/
 
 .rights {
@@ -276,3 +275,9 @@ body {
     }
 }
 
+@media (min-width: 768px) {
+    .reservation-form .form-group input,
+    .reservation-form .form-group textarea {
+        width: 250px;
+    }
+}
