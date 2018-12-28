@@ -25,17 +25,16 @@ The design and some features changed over the development process.
 
 # Features
 These are some of the features implemented for this website:
-<ul style='list-style:none'>
-<li><strong>Navigation bar</strong> - helps customers navigate throught the page with links to different sections of the website. Also has a logo with a link to the home page.<li>
-<li><strong>Embedded video</strong> - shows a short clip from YouTube about the place around 'Cottage Tea Rooms'.<li>
-<li><strong>Embedded audio files</strong> - emerses customers into 'Cottage Tea Rooms' atmosphere by showcasing examples of the music played there.<li>
-<li><strong>'Book a table' form</strong> - allows customers to book a table in the cafe from the comfort of their home.<li>
-<li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.<li>
-<li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination.<li>
-<li><strong>Working Hours</strong> - shows the working hours of the cafe.<li>
-<li><strong>Embedded Trip Advisor website</strong> - interactive method to showcase ratings and reviews for credibility.<li>
-<li><strong>Social links</strong> - Links to connect and follow the cafe on social media.<li>
-<li>
+<ul>
+<li><strong>Navigation bar</strong> - helps customers navigate throught the page with links to different sections of the website. Also has a logo with a link to the home page.</li>
+<li><strong>Embedded video</strong> - shows a short clip from YouTube about the place around 'Cottage Tea Rooms'.</li>
+<li><strong>Embedded audio files</strong> - emerses customers into 'Cottage Tea Rooms' atmosphere by showcasing examples of the music played there.</li>
+<li><strong>'Book a table' form</strong> - allows customers to book a table in the cafe from the comfort of their home.</li>
+<li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.</li>
+<li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination.</li>
+<li><strong>Working Hours</strong> - shows the working hours of the cafe.</li>
+<li><strong>Embedded Trip Advisor website</strong> - interactive method to showcase ratings and reviews for credibility.</li>
+<li><strong>Social links</strong> - Links to connect and follow the cafe on social media.</li>
 </ul>
 
 # Technologies Used
