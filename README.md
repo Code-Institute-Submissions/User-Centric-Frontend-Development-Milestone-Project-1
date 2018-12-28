@@ -10,8 +10,8 @@ To view the live site, press <a href='https://surelis848.github.io/User-Centric-
 # UX
 
 The website was built for the customers of the 'Cottage Tea Rooms' for an easy reach of basic information about the cafe
-and possibilities to communicate, book a table online. These user stories were made durring planning stage of the
-website:
+and book a table online. These user stories were made durring planning stage 
+and were used in creating different features for the website:
 
 <ul>
 <li>As a customer, I want to check the cafe's menu, so that I'd know it suits my taste.</li>
@@ -26,15 +26,15 @@ The design and some features changed over the development process.
 # Features
 These are some of the features implemented for this website:
 <ul style='list-style:none'>
-<li><strong>Navigation bar</strong> - helps customers navigate throught the page with link to different sections of the website. Also has a logo with a link to the home page.<li><br>
-<li><strong>Embedded video</strong> - shows a short clip from YouTube about the place of 'Cottage Tea Rooms'.<li><br>
-<li><strong>Embedded audio files</strong> - emerses customers into 'Cottage Tea Rooms' atmosphere by showcasing egzamples of the music played there.<li><br>
-<li><strong>'Book a table' form</strong> - allows customers to book a table in the cafe from the comfort of their home.<li><br>
-<li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.<li><br>
-<li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination- 'Cottage Tea Rooms'.<li><br>
-<li><strong>Working Hours</strong> - shows the working hours of the cafe.<li><br>
-<li><strong>Embedded Trip Advisor website</strong> - interactive method to showcase rating and reviews for credibility.<li><br>
-<li><strong>Social links</strong> - Links to connect and follow the cafe on social media.<li><br>
+<li><strong>Navigation bar</strong> - helps customers navigate throught the page with links to different sections of the website. Also has a logo with a link to the home page.<li>
+<li><strong>Embedded video</strong> - shows a short clip from YouTube about the place around 'Cottage Tea Rooms'.<li>
+<li><strong>Embedded audio files</strong> - emerses customers into 'Cottage Tea Rooms' atmosphere by showcasing examples of the music played there.<li>
+<li><strong>'Book a table' form</strong> - allows customers to book a table in the cafe from the comfort of their home.<li>
+<li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.<li>
+<li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination.<li>
+<li><strong>Working Hours</strong> - shows the working hours of the cafe.<li>
+<li><strong>Embedded Trip Advisor website</strong> - interactive method to showcase ratings and reviews for credibility.<li>
+<li><strong>Social links</strong> - Links to connect and follow the cafe on social media.<li>
 <li>
 </ul>
 
@@ -43,7 +43,7 @@ These are some of the features implemented for this website:
 <ul>
 <li><strong>HTML and CSS</strong><br> Base languages used to create the website.</li>
 <li><strong><a href='https://getbootstrap.com/docs/3.3/'>Bootstrap 3.3.7</a></strong><br> Used for styling and layout of the page.</li>
-<li><strong>Javascript and jQuery</strong><br> Languages used with a help of Bootstrap empowering the collapsed menu button.</li>
+<li><strong>Javascript and <a href='https://jquery.com/'>jQuery</a></strong><br> Languages used with a help of Bootstrap empowering the collapsed menu button.</li>
 </ul>
 
 # Testing
