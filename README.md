@@ -46,8 +46,8 @@ These are some of the features implemented for this website:
 
 # Testing
 <ul>
-<li>The document was tested with an HTML validator</li>
-<li>The css was tested with CSS Lint</li>
+<li>The document was validated with an HTML validator</li>
+<li>The css was validated with CSS Lint</li>
 <li>Site tested on these browsers:
 <ul>
 <li>Google Chrome</li>
@@ -61,7 +61,7 @@ These are some of the features implemented for this website:
 
 # Deployment
 
-The website was deployed using <a href='https://surelis848.github.io/User-Centric-Frontend-Development-Milestone-Project/index.html'>GitHub pages</a>
+The website was published using <a href='https://surelis848.github.io/User-Centric-Frontend-Development-Milestone-Project/index.html'>GitHub pages</a>
 
 # Credits
 
@@ -72,7 +72,7 @@ Menu, working hours and reviews are taken from 'Cottage Tea Rooms' <a href='http
 <h2>Media</h2>
 
 <ul>
-<li>The video about 'Cottage Tea Rooms' is embedded from <a href='www.youtube.com'>YouTube</a>.</li>
+<li>The video about 'Cottage Tea Rooms' is embedded from <a href='https://www.youtube.com/embed/FxVsyQ-DK40'>YouTube</a>.</li>
 <li>The audio files was dowloaded and added from Royalty free site - <a href='http://freemusicarchive.org/genre/Celtic/'>Free Music Archive</a>.</li>
 <li>All images were taken from 'Cottage Tea Rooms' <a href='https://www.facebook.com/cottagetearoom/?epa=SEARCH_BOX'>facebook</a> and <a href='https://www.instagram.com/explore/locations/449204229/cottage-tea-rooms/'>instagram</a> pages.</li>
 <li>Location with Google Maps was embedded from <a href='https://www.google.ie/maps?hl=lt'>Google Maps</a>.</li>
