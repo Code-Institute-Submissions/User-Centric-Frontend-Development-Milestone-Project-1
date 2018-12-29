@@ -12,10 +12,6 @@ body {
     text-align: justify;
 }
 
-section {
-    padding-bottom: 90px;
-}
-
 .uppercase {
     text-transform: uppercase;
 }
@@ -193,16 +189,17 @@ section {
 }
 
 .reservation-form {
-    display: block;
+    position: relative;
     margin-top: 30px;
     text-align: center;
     background-color: #92B4F4;
-    padding: 20px 0 20px 0;
+    width: 100%;
+    padding: 20px 0px 90px 0px;
 }
 
 .reservation-form .form-group input,
 .reservation-form .form-group textarea {
-    width: 150px;
+    width: 200px;
 }
 
 .text-field {
@@ -286,12 +283,6 @@ section {
 @media (min-width: 768px) {
     .rights {
         text-align: right;
-    }
-}
-
-@media (min-width: 768px) {
-    section {
-        margin: 10px 90px;
     }
 }
 

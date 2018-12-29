@@ -52,15 +52,17 @@ These are some of the features implemented for this website:
 <li>Site tested on these browsers:
 <ul>
 <li>Google Chrome</li>
-<li> Internet Explorer</li>
+<li>Internet Explorer</li>
 <li>Mozilla Firefox</li>
 <li>Opera Mini</li>
+<li>Microsoft Edge</li>
+<li>Safari</li>
 </ul>
 </ul>
 
 # Deployment
 
-The website was deployed using <a href='https://github.com/Surelis848'>GitHub</a>
+The website was deployed using <a href='https://surelis848.github.io/User-Centric-Frontend-Development-Milestone-Project/index.html'>GitHub pages</a>
 
 # Credits
 
