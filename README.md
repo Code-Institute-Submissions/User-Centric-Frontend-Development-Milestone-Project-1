@@ -33,7 +33,6 @@ These are some of the features implemented for this website:
 <li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.</li>
 <li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination.</li>
 <li><strong>Working Hours</strong> - shows the working hours of the cafe.</li>
-<li><strong>Embedded Trip Advisor website</strong> - interactive method to showcase ratings and reviews for credibility.</li>
 <li><strong>Social links</strong> - Links to connect and follow the cafe on social media.</li>
 </ul>
 
@@ -77,7 +76,6 @@ Menu, working hours and reviews are taken from 'Cottage Tea Rooms' <a href='http
 <li>The audio files was dowloaded and added from Royalty free site - <a href='http://freemusicarchive.org/genre/Celtic/'>Free Music Archive</a>.</li>
 <li>All images were taken from 'Cottage Tea Rooms' <a href='https://www.facebook.com/cottagetearoom/?epa=SEARCH_BOX'>facebook</a> and <a href='https://www.instagram.com/explore/locations/449204229/cottage-tea-rooms/'>instagram</a> pages.</li>
 <li>Location with Google Maps was embedded from <a href='https://www.google.ie/maps?hl=lt'>Google Maps</a>.</li>
-<li>A website with reviews and rating was embedded from <a href='https://www.tripadvisor.ie/'>TripAdvisor</a>.</li>
 </ul>
 
 <h2>Acknowledgements</h2>
