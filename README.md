@@ -1,7 +1,6 @@
 # Cottage Tea Rooms
 
-This is a front-end website for 'Cottage Tea Rooms' cafe. 
-It is a lovely, historic irish cafe in Old Firhouse Village.
+This is a front-end website for 'Cottage Tea Rooms' cafe, which is a lovely, historic irish cafe in Old Firhouse Village.<br>
 In the website there is information about the cafe itself, options to book a table, 
 contact the cafe directly, information about their working hours and their menu/prices.<br>
 This website was created as a project for Code Institute. 
@@ -17,20 +16,20 @@ and were used in creating different features for the website:
 <li>As a customer, I want to check the cafe's menu, so that I'd know it suits my taste.</li>
 <li>As a customer, I want to book a table online, so I'd be sure I won't need to wait for one.</li>
 <li>As a customer, I want to find working hours of the cafe, so I could plan my time.</li>
-<li>As a customer, I want to read reviews of the cafe for credibility</li>
+<li>As a customer, I want to read reviews of the cafe for credibility.</li>
 </ul>
 
 Also, in the planning stage, I created <a href='wireframes'>these</a> wireframes. 
-The design and some features changed over the development process.
+Although, the design and some features changed over the development process.
 
 # Features
 These are some of the features implemented for this website:
 <ul>
-<li><strong>Navigation bar</strong> - helps customers navigate throught the page with links to different sections of the website. Also has a logo with a link to the home page.</li>
+<li><strong>Navigation bar</strong> - helps customers navigate through the page with links to different sections of the website. Also, has a logo with a link to the home page.</li>
 <li><strong>Embedded video</strong> - shows a short clip from YouTube about the place around 'Cottage Tea Rooms'.</li>
 <li><strong>Embedded audio files</strong> - emerses customers into 'Cottage Tea Rooms' atmosphere by showcasing examples of the music played there.</li>
 <li><strong>'Book a table' form</strong> - allows customers to book a table in the cafe from the comfort of their home.</li>
-<li><strong>Menu</strong> - showcases the menu options for food and beverages as well as prices.</li>
+<li><strong>Menu</strong> - showcases the menu options for food and beverages, as well as prices.</li>
 <li><strong>Google Maps location</strong> - interactive way to check the location connecting to Google Maps. Possibilities to check directions and time needed to arrive at their destination.</li>
 <li><strong>Working Hours</strong> - shows the working hours of the cafe.</li>
 <li><strong>Social links</strong> - Links to connect and follow the cafe on social media.</li>
