@@ -212,8 +212,8 @@ body {
     width: 200px;
 }
 
-.text-field {
-    height: 80px;
+.other-comments {
+    resize: none;
 }
 
 .submit-button {

@@ -20,7 +20,7 @@ and were used in creating different features for the website:
 <li>As a customer, I want to read reviews of the cafe for credibility</li>
 </ul>
 
-Also, in the planning stage, I created <a href='#'>these</a> wireframes. 
+Also, in the planning stage, I created <a href='wireframes'>these</a> wireframes. 
 The design and some features changed over the development process.
 
 # Features
