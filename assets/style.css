@@ -48,10 +48,8 @@ body {
 }
 
 .navigation-links {
-    position: relative;
-    top: 50%;
-    transform: translateY(110%);
     list-style: none;
+    padding-top: 30px;
 }
 
 .link a {
@@ -280,12 +278,6 @@ body {
 }
 
 /*---------------------------------Media Querries*/
-
-@media (min-width: 768px) {
-    .navigation-links {
-        float: right;
-    }
-}
 
 @media (min-width: 768px) {
     .rights {
