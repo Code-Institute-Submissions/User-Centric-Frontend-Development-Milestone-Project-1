@@ -50,6 +50,7 @@ body {
 .navigation-links {
     list-style: none;
     padding-top: 30px;
+    overflow-y: hidden;
 }
 
 .link a {
